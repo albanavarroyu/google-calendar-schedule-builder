@@ -1,0 +1,29 @@
+{
+  "manifest_version": 3,
+  "name": "MyWeek",
+  "description": "Plan flexible weekly goals around an existing Google Calendar schedule.",
+  "version": "0.1.0",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "MyWeek",
+    "default_icon": {
+      "16": "icons/icon16.svg",
+      "48": "icons/icon48.svg",
+      "128": "icons/icon128.svg"
+    }
+  },
+  "icons": {
+    "16": "icons/icon16.svg",
+    "48": "icons/icon48.svg",
+    "128": "icons/icon128.svg"
+  },
+  "permissions": ["activeTab", "identity", "storage"],
+  "host_permissions": [
+    "https://calendar.google.com/*",
+    "https://www.googleapis.com/*"
+  ],
+  "oauth2": {
+    "client_id": "__MYWEEK_GOOGLE_OAUTH_CLIENT_ID__",
+    "scopes": ["https://www.googleapis.com/auth/calendar.events"]
+  }
+}

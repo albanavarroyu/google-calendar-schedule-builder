@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" aria-label="MyWeek">
+  <rect width="48" height="48" rx="9" fill="#2563eb"/>
+  <path d="M10 14h28M15 8v10M33 8v10M13 22h7v7h-7zm10 0h7v7h-7zm10 0h7v7h-7zM13 32h7v7h-7zm10 0h7v7h-7z" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
+

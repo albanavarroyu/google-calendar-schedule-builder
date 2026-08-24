@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-label="MyWeek">
+  <rect width="128" height="128" rx="24" fill="#2563eb"/>
+  <path d="M28 38h72M40 22v28M88 22v28M36 58h18v18H36zm27 0h18v18H63zm27 0h18v18H90zM36 86h18v18H36zm27 0h18v18H63z" fill="none" stroke="#fff" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
+
